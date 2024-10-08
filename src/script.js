@@ -6,7 +6,7 @@ import CANNON from 'cannon';
 /**
  * Debug
  */
-const gui = new GUI()
+const gui = new GUI();
 
 /**
  * Base
